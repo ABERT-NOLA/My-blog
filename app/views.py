@@ -19,3 +19,12 @@ def blog(blog_id):
     View blog page function that returns the movie details page and its data
     '''
     return render_template('blog.html',id = blog_id)
+
+def index():
+
+    '''
+    View root page function that returns the index page and its data
+    '''
+
+    title = 'Home - Welcome to The best blog Review Website Online'
+    return render_template('index.html', title = title)
