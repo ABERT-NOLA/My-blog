@@ -11,3 +11,11 @@ def index():
 
     message = 'My Blog'
     return render_template('index.html',message = message)
+
+@app.route('/blog/<int:blog_id>')
+def blog(blog_id):
+
+    '''
+    View blog page function that returns the movie details page and its data
+    '''
+    return render_template('blog.html',id = blog_id)
