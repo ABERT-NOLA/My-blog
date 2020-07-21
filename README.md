@@ -1,20 +1,7 @@
 # My-blog
 A personal blogging website where you can create and share your opinions and other users can read and comment on them
 ## Built By 
-    ALBERT OBWOGE
-https://github.com/ABERT-NOLA
-
-## Description
-Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
-
-## User Stories
-These are the behaviours that the application implements for use by a user.
-
-As a user I would like:
-* To create an account with my details - log in and password
-* Store my existing login credentials
-* Generate a password for a new credential/account
-
+ALBERT OBWOGE,https://github.com/ABERT-NOLA
 ## Specifications
 * Display codes for navigation
 * Display prompt for creating an account
@@ -34,13 +21,13 @@ As a user I would like:
 * In your terminal:
         
         $ git clone https://github.com/ABERT-NOLA/Password-Locker.git
-        $ cd Password-Locker
+        $ cd My-blog
 
 ## Running the Application
 * To run the application, in your terminal:
 
-        $ chmod +x passwordLocker.py
-        $ ./passwordLocker.py
+        $ chmod +x Flaskblog.py
+        $ ./Flaskblog.py
         
 ## Testing the Application
 * To run the tests for the class file:
