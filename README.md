@@ -20,7 +20,7 @@ ALBERT OBWOGE,https://github.com/ABERT-NOLA
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/ABERT-NOLA/Password-Locker.git
+        $ git clone https://github.com/ABERT-NOLA/My-blog.git
         $ cd My-blog
 
 ## Running the Application
